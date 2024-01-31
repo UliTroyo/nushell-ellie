@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round"
+  stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 32 32">
+  <title>Ellie Icon, by Uli Troyo</title>
+  <style>
+    .color-1 { fill: #282828; }
+    .color-2 { fill: #b7bc00; }
+  </style>
+  <path id="ellie" class="color-1"
+    d="M8 6c.7-1.4 4-3 8-3s7.3 1.5 8 3c2-1 4.7-.7 6 1 1 1.2.8 6.5-.2 8.1A4.6 4.6 0 0 1 24 17c-.1 1.5-1 2.6-2.1 3.3-1.2.7-2.2 1.8-2 3.1.1 1.3.9 1.8 2.8 1.1 1.5-.5 1.6-1.9 2.3-2.5.6-.5 3.3 1.3 3 2-.7 2-2.8 5-6.2 5-3.5 0-6.2-3.3-6.8-6-.3-1.5-3.3-1.8-4.9-2.7-1-.6-2-2-2.1-3.3-2 1-5-.1-5.8-2-.9-2-1.3-6.8.2-8.4C3.7 5.1 6 5 8 6Z" />
+  <path id="prompt" class="color-2"
+    d="M10.2 10.8a.5.5 0 0 1 .5-.9c1.4.8 3 1.3 4.2 2.2l.2.5c0 .2-.2.3-.4.4l-4.2 1.6a.5.5 0 0 1-.4-.9c1.1-.5 2.3-1 3.4-1.3-1-.6-2.2-1-3.3-1.6Z" />
+  <path id="cursor" class="color-2" d="M20 9.8a.5.5 0 0 1 1 0l.1 4.3a.5.5 0 0 1-1 .1c-.1-1.4-.2-2.8-.1-4.4Z" />
+</svg>
